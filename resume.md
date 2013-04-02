@@ -38,7 +38,6 @@ Control Theory and Applications Centre · School of Mathematical and Information
 1996年4月〜1998年9月 · 繊維学部機能機械学科
 三年次中退
 授業料全額あるいは半額免除
-高校
 
 ## 法政大学第二高等学校
 1996年卒業
