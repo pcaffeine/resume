@@ -26,21 +26,27 @@ IT Architect, Chief IT Architect · 2008年11月〜2010年9月
 
 ## Coventry University
 2004年卒業 · Master of Philosophy · 
+
 School of Mathematical and Information Sciences. Control Theory and Applications Centre
+
 返済義務なしの奨学金付き
 
 ## 筑波大学（University of Tsukuba）
 2002年卒業 · 第三学群 工学システム学類 機能工学システム主専攻
+
 三年次編入学。
+
 (Englandでの) First Class相当で卒業。
 
 ## 信州大学
 1996年4月〜1998年9月 · 繊維学部 機能機械学科
+
 三年次中退
+
 授業料全額あるいは半額免除
 
 ## 法政大学第二高等学校
 1996年卒業
 
 ## 法政大学第二中学校
-1993年卒業 · 神奈川県川崎市
+1993年卒業
