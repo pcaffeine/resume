@@ -39,7 +39,7 @@ School of Mathematical and Information Sciences. Control Theory and Applications
 (Englandでの) First Class相当で卒業。
 
 ## 信州大学
-1997年4月〜1998年9月 · 繊維学部 機能機械学科
+1997年4月〜1999年9月 · 繊維学部 機能機械学科
 
 三年次中退
 
