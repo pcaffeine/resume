@@ -25,7 +25,7 @@ IT Architect, Chief IT Architect · 2008年11月〜2010年9月
 # 学歴
 
 ## Coventry University
-2004年卒業 · Master of Philosophy · 
+2004年卒業 · Master of Philosophy
 
 School of Mathematical and Information Sciences. Control Theory and Applications Centre
 
