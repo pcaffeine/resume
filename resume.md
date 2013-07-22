@@ -43,7 +43,7 @@ Web制作会社でのPC自社Webサービス開発、品質管理業務
 バイクメッセンジャー · 1996年3月〜1997年3月
 アルバイト
 
-バイトで学費を稼ぎました。
+バイトで1-2年分の学費を稼ぎました。
 
 # 学歴
 
@@ -52,7 +52,7 @@ Web制作会社でのPC自社Webサービス開発、品質管理業務
 
 School of Mathematical and Information Sciences. Control Theory and Applications Centre
 
-返済義務なしの奨学金付き
+返済義務なしの奨学金付き (EU Rate)
 
 ## 筑波大学（University of Tsukuba）
 2002年卒業 · 第三学群 工学システム学類 機能工学システム主専攻
