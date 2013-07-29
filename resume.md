@@ -52,7 +52,7 @@ Web制作会社でのPC自社Webサービス開発、品質管理業務
 
 School of Mathematical and Information Sciences. Control Theory and Applications Centre
 
-返済義務なしの奨学金付き (EU Rate。一年目約2500ポンド。二年目約250ポンド)
+返済義務なしの奨学金付き (EU Rate。授業料一年目約2500ポンド。二年目約250ポンド)
 
 ## 筑波大学（University of Tsukuba）
 2002年卒業 · 第三学群 工学システム学類 機能工学システム主専攻
