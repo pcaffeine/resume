@@ -47,7 +47,7 @@ Web制作会社でのPC自社Webサービス開発、品質管理業務
 
 # 学歴
 
-## Coventry University
+## Coventry University (M.Phil/Ph.D課程)
 2004年修了 · Master of Philosophy, Principal Investigator
 
 School of Mathematical and Information Sciences. Control Theory and Applications Centre
