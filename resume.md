@@ -80,4 +80,5 @@ Control Theory and Applications Centre. School of Mathematical and Information S
 ## 法政大学第二中学校
 1993年卒業
 
-## TOEFL 233/300
+## 英語
+TOEFL 233/300
