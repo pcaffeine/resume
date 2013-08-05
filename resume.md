@@ -70,7 +70,8 @@ School of Mathematical and Information Sciences. Control Theory and Applications
 
 ## 法政大学第二高等学校
 1996年卒業
-4000mチームパーシュート関東大会入賞。インターハイ出場権獲得。
+
+4000mチームパーシュート関東大会入賞。インターハイ出場権獲得。インターハイ出場辞退。
 
 ## 法政大学第二中学校
 1993年卒業
