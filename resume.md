@@ -72,7 +72,7 @@ Control Theory and Applications Centre.School of Mathematical and Information Sc
 1996年卒業
 
 4000mチームパーシュート関東大会入賞。インターハイ出場権獲得。インターハイ出場辞退。
-40kmチームタイムトライアル。神奈川大会3位入。賞
+40kmチームタイムトライアル。神奈川大会3位入賞
 4000m速度競争、関東大会出場。
 
 ## 法政大学第二中学校
