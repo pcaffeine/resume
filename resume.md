@@ -81,4 +81,4 @@ Control Theory and Applications Centre. School of Mathematical and Information S
 1993年卒業
 
 ## 英語
-TOEFL 233/300
+TOEFL 233/300 (2002年)
