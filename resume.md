@@ -1,7 +1,7 @@
 # 職歴
 
 ## Summary
-今まで、フロントエンドも含めた通常のPC/モバイル向けWebサービス開発及び、自然言語処理/機械学習関連開発と、それを応用した検索エンジン/レコメンデーションエンジン開発をしてきました。フェーズ的には要件定義から設計/実装まで全てこなせます。プロジェクトリーダーやWebプロデューサーをやったこともあります。
+今まで、フロントエンドも含めた通常のPC/モバイル向けWebサービス開発及び、自然言語処理/機械学習関連開発と、それを応用した検索エンジン/レコメンデーションエンジン開発をしてきました。フェーズ的には要件定義から設計/実装まで全てこなせます。プロダクトマネージャーやマネージャーをやったこともあります。
 
 ## Keywords
 management, strategy, meta programming, object oriented programming, database, web application framework development, map-reduce, applied mathematics, data structure and algorithm, data analysis, natural language processing, machine learning, search engine, recommendation engine.
