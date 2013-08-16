@@ -7,7 +7,7 @@ Hwi Jun Kim (金 輝俊)
 management, strategy, meta programming, object oriented programming, database, web application framework development, map-reduce, applied mathematics, data structure and algorithm, data analysis, natural language processing, machine learning, search engine, recommendation engine.
 
 ## キャリアの変遷
-Web系エンジニア→ブログ分析、検索エンジン、レコメンデーションエンジン→Web系エンジニア+データ分析+マネージメント
+制御工学のresearch student(M.Phil)→Web系エンジニア→ブログ分析、検索エンジン、レコメンデーションエンジン→Web系エンジニア+データ分析+マネージメント
 
 ## フリーランスエンジニア
 2012年9月から現在
