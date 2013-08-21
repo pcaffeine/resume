@@ -1,7 +1,7 @@
 Hwi Jun Kim (金 輝俊)
 
 ## Summary
-制御工学のresearch studentとして基礎を築いたあと、IT業界に転身しました。IT業界に転身後、フロントエンドも含めた通常のPC/モバイル向けWebサービス開発及び、自然言語処理/機械学習関連開発と、それを応用した検索エンジン/レコメンデーションエンジン開発をしてきました。フェーズ的には要件定義から設計/実装まで全てこなせます。プロダクトマネージャーやマネージャーをやったこともあります。
+制御工学のresearch student (M.Phil) として基礎を築いたあと、IT業界に転身しました。IT業界に転身後、フロントエンドも含めた通常のPC/モバイル向けWebサービス開発及び、自然言語処理/機械学習関連開発と、それを応用した検索エンジン/レコメンデーションエンジン開発をしてきました。フェーズ的には要件定義から設計/実装まで全てこなせます。プロダクトマネージャーやマネージャーをやったこともあります。
 
 ## Keywords
 applied mathematics, management, strategy, meta programming, object oriented programming, database, web application framework development, map-reduce, data structure and algorithm, data analysis, natural language processing, machine learning, search engine, recommendation engine.
