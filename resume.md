@@ -80,4 +80,5 @@ Control Theory and Applications Centre. School of Mathematical and Information S
 
 ## 言語
 英語 TOEFL 233/300 (2002年)
+
 日本語 Native Language
