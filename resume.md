@@ -49,7 +49,7 @@ Control Theory and Applications Centre. School of Mathematical and Information S
 ## 信州大学, 筑波大学
 2001年-2002年 筑波大学 第三学群 工学システム学類 機能工学システム主専攻 (三年次編入学。3-4年)
 
-1997年4月〜1999年9月 信州大学 繊維学部 機能機械学科 (1-2年)
+1997年4月-1999年9月 信州大学 繊維学部 機能機械学科 (1-2年)
 
 major: System Control Engineering
 
