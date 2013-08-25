@@ -51,9 +51,9 @@ Control Theory and Applications Centre. School of Mathematical and Information S
 
 1997年4月〜1999年9月 信州大学 繊維学部 機能機械学科 (1-2年)
 
-major: System Control Enginnering
+major: System Control Engineering
 
-minor: Mechanical Enginnering
+minor: Mechanical Engineering
 
 (Englandでの) First Class相当で卒業。
 
