@@ -44,7 +44,7 @@ Web制作会社でのPC自社Webサービス開発、品質管理業務
 
 Control Theory and Applications Centre. School of Mathematical and Information Sciences.
 
-返済義務なしの奨学金付き (EU Rate。授業料一年目約2500ポンド。二年目約250ポンド)
+返済義務なしの奨学金付き (EU Rate。Tuition fee 一年目約2500ポンド。二年目約250ポンド)
 
 ## 信州大学, 筑波大学
 2001年-2002年 筑波大学 第三学群 工学システム学類 機能工学システム主専攻 (三年次編入学。3-4年)
