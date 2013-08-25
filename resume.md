@@ -46,19 +46,18 @@ Control Theory and Applications Centre. School of Mathematical and Information S
 
 返済義務なしの奨学金付き (EU Rate。授業料一年目約2500ポンド。二年目約250ポンド)
 
-## 筑波大学（University of Tsukuba）
-2002年卒業 · 第三学群 工学システム学類 機能工学システム主専攻
+## 筑波大学, 信州大学
+2001-2002年 筑波大学 第三学群 工学システム学類 機能工学システム主専攻 (三年次編入学。3-4年)
 
-三年次編入学。
+1997年4月〜1999年9月 信州大学 繊維学部 機能機械学科 (1-2年)
+
+major: System Control Enginnering
+
+minor: Mechanical Enginnering
 
 (Englandでの) First Class相当で卒業。
 
-## 信州大学
-1997年4月〜1999年9月 · 繊維学部 機能機械学科
-
-三年次中退
-
-授業料全額あるいは半額免除
+授業料全額あるいは半額免除 (信州大学)
 
 ## 株式会社T-serv
 バイクメッセンジャー · 1996年3月〜1997年3月
