@@ -40,7 +40,7 @@ To Cの自社携帯Webサービス開発 (自然言語処理/機械学習の技�
 Web制作会社でのPC自社Webサービス開発、品質管理業務
 
 ## Coventry University (M.Phil/Ph.D課程)
-2004年修了 · Master of Philosophy, Principal Investigator
+2002年10月-2004年11月. Master of Philosophy, Principal Investigator
 
 Thesis: Disturbance Estimation And Cancellation for Linear Uncertain Systems
 
