@@ -42,6 +42,8 @@ Web制作会社でのPC自社Webサービス開発、品質管理業務
 ## Coventry University (M.Phil/Ph.D課程)
 2004年修了 · Master of Philosophy, Principal Investigator
 
+Thesis: Disturbance Estimation And Cancellation for Linear Uncertain Systems
+
 Control Theory and Applications Centre. School of Mathematical and Information Sciences.
 
 返済義務なしの奨学金付き (EU Rate。Tuition fee 一年目約2500ポンド。二年目約250ポンド)
