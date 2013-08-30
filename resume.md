@@ -46,6 +46,10 @@ Web制作会社でのPC自社Webサービス開発、品質管理業務
 
 Thesis: Disturbance Estimation And Cancellation for Linear Uncertain Systems
 
+Control Theory and Applications Centre. School of Mathematical and Information Sciences.
+
+返済義務なしの奨学金付き (EU Rate。Tuition fee 一年目約2500ポンド。二年目約250ポンド)
+
 本論文ではスマートマテリアルシステムをロバストに制御することを諦念に制御アルゴリズムとdisturbance observerの組の提案とそのロバスト性の証明をおこなった。本論文のスコープは理論的に、ある一定クラスのロバスト性を示すことである。ただし、実際の場合ロバストに制御するためにはいくかの問題点が残っている。つまり、実験はスコープ外である。
 
 (注：ただし、制御対象はスマートマテリアルシステムであるとは限らない。)
@@ -67,10 +71,6 @@ nominal systemの非線形性を制御入力によって打ち消すことは考
 disturbance observerと制御アルゴリズムと対応する、制御手法のデジタル版があった場合、ロバスト性や計算量がどうなるかは未知数である。
 
 本論文では高次元線形システムのdisturbance observerを用いたロバスト性について数学的に証明した。理論的にはロバストに制御可能であることを示したが、計算量の問題や制御入力の最大値あるいはピエゾマテリアルの精度などの問題があるため、必ずしも実際の場合にロバストに制御可能かどうかは当時の段階では未知数なところがあった。ただし、理論的にはロバストに制御可能であることを証明した。
-
-Control Theory and Applications Centre. School of Mathematical and Information Sciences.
-
-返済義務なしの奨学金付き (EU Rate。Tuition fee 一年目約2500ポンド。二年目約250ポンド)
 
 ## 信州大学, 筑波大学
 2001年-2002年 筑波大学 第三学群 工学システム学類 機能工学システム主専攻 (三年次編入学。3-4年)
