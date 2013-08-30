@@ -50,6 +50,10 @@ Control Theory and Applications Centre. School of Mathematical and Information S
 
 返済義務なしの奨学金付き (EU Rate。Tuition fee 一年目約2500ポンド。二年目約250ポンド)
 
+https://github.com/pcaffeine/resume/blob/master/thesis-partial.pdf
+
+https://github.com/pcaffeine/resume/blob/master/mphil-diploma.pdf
+
 本論文ではスマートマテリアルシステムをロバストに制御することを諦念に制御アルゴリズムとdisturbance observerの組の提案とそのロバスト性の証明をおこなった。本論文のスコープは理論的に、ある一定クラスのシステムのロバスト性を示すことである。ただし、実際の場合ロバストに制御するためにはいくかの問題点が残っている。実験はスコープ外である。
 
 (注：ただし、制御対象はスマートマテリアルシステムであるとは限らない。)
