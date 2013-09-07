@@ -44,6 +44,8 @@ Web制作会社でのPC自社Webサービス開発、品質管理業務
 ## Coventry University (M.Phil/Ph.D課程)
 2002年10月-2004年11月. Master of Philosophy, Principal Investigator
 
+Research Proposal: Control Problems Arising on Smart Strutural Systems
+
 Thesis: Disturbance Estimation And Cancellation for Linear Uncertain Systems
 
 Control Theory and Applications Centre. School of Mathematical and Information Sciences.
