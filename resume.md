@@ -1,4 +1,4 @@
-Hwi Jun Kim (金 輝俊) @pcaffeine euler.bonjour@gmail.com
+Hwi Jun Kim @pcaffeine euler.bonjour@gmail.com
 
 ## Summary
 システム制御工学のresearch student (M.Phil) として基礎を築いたあと、IT業界に転身しました。IT業界に転身後、フロントエンドも含めた通常のPC/モバイル向けWebサービス開発及び、自然言語処理/機械学習関連開発と、それを応用した検索エンジン/レコメンデーションエンジン開発をしてきました。フェーズ的には要件定義から設計/実装まで全てこなせます。プロダクトマネージャーやマネージャーをやったこともあります。
@@ -118,4 +118,4 @@ nominal systemの非線形性を制御入力によって打ち消すことは考
 ## 言語
 英語 TOEFL 233/300 (2002年)
 
-日本語 Native Language
+日本語 Native Class Language
