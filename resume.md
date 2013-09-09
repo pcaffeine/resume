@@ -1,5 +1,6 @@
 Hwi Jun Kim @pcaffeine euler.bonjour@gmail.com
 
+Remark: This resume is written by Japanese because I suppose Japanese cannot use English.
 注：このresumeを日本語で書いたのは日本人が理解できるようにするため。
 
 ## Summary
