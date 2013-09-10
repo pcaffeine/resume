@@ -2,7 +2,7 @@ Hwi Jun Kim @pcaffeine euler.bonjour@gmail.com
 
 Date of Birth: 1977/5/6
 
-Place Of Birth: Tokyo/Japan
+Place of Place: Tokyo/Japan
 
 Remark: This resume is written by Japanese because I suppose Japanese cannot use English.
 
