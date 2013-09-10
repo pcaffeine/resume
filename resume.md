@@ -58,6 +58,8 @@ Thesis: Disturbance Estimation And Cancellation for Linear Uncertain Systems
 
 Control Theory and Applications Centre. School of Mathematical and Information Sciences.
 
+At least, I have one international proceedings derived from the thesis above.
+
 返済義務なしの奨学金付き (EU Rate。Tuition fee 一年目約2500ポンド。二年目約250ポンド)
 
 https://github.com/pcaffeine/resume/blob/master/thesis-partial.pdf
