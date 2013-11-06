@@ -184,4 +184,4 @@ nominal systemの非線形性を制御入力によって打ち消すことは考
 ## 言語
 英語 TOEFL 233/300 (2002年)
 
-日本語 Native Class Language
+日本語 Native Language
