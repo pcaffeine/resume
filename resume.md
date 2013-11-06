@@ -29,6 +29,16 @@ applied mathematics, management, strategy, meta programming, object oriented pro
 ## フリーランスエンジニア
 2012年9月から現在
 
+アルフレッドコア時代にWeb Application Frameworkを開発。MVCの部分に加え、
+
+* ORMapper
+* AOP
+* Composite View Patternも含めたSmallTalk型MVC
+
+に代表されるフレームワークを開発した。Smalltalk styleのMVCの方が自然だと思う。また、少々カスタマイズできるscaffoldみたいのも作ったが、これはちょっと遣り過ぎたかもしれない(笑)
+
+また、meta programmingを随所に使い、PHPでもその力を引き出せばRuby/Railsある程度並べるのでは？ということを示した。
+
 ## REALWORLD.co.,LTD(株式会社リアルワールド)
 エンジニア・プロジェクトマネージャー · 2012年1月〜2012年8月
 
