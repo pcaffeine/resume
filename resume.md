@@ -93,7 +93,7 @@ Control Theory and Applications Centre. School of Mathematical and Information S
 
 イギリスは後に第二志望グループにいれたが、その理由は単純で奨学金の額が少ないからである。
 
-結果、アメリカではAustinがエッセーを書き直せば来年入れる可能性があると言われた。UMMISTのMscとCoventryのM.Phil/Ph.Dがオファーされた。奨学金が出るという事でCoventryを選んだ。
+結果、アメリカではAustinがエッセーを書き直せば来年入れる可能性があると言われた。UMISTのMscとCoventryのM.Phil/Ph.Dがオファーされた。奨学金が出るという事でCoventryを選んだ。
 
 イギリスでも人種差別はあって、馬鹿バカしくなって、結局日本に戻った。IT業界に行ったら、そこに自由はあった。実力次第でもぎ取れる自由が。また、学生時代にあった在日韓国人差別もなくなっていた。
 
