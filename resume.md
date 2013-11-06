@@ -95,6 +95,8 @@ Control Theory and Applications Centre. School of Mathematical and Information S
 
 結果、アメリカではAustinがエッセーを書き直せば来年入れる可能性があると言われた。UMISTのMscとCoventryのM.Phil/Ph.Dがオファーされた。奨学金が出るという事でCoventryを選んだ。
 
+事実上の亡命だった。
+
 イギリスでも人種差別はあって、馬鹿バカしくなって、結局日本に戻った。IT業界に行ったら、そこに自由はあった。実力次第でもぎ取れる自由が。また、学生時代にあった在日韓国人差別もなくなっていた。
 
 * Aim: To reduce energy consumption of mechanical systems
