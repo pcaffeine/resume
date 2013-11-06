@@ -35,7 +35,7 @@ applied mathematics, management, strategy, meta programming, object oriented pro
 * AOP
 * Composite View Patternも含めたSmallTalk型MVC
 
-に代表されるフレームワークを開発した。Smalltalk styleのMVCの方が自然だと思う。また、少々カスタマイズできるscaffoldみたいのも作ったが、これはちょっと遣り過ぎたかもしれない(笑)
+に代表されるフレームワークを開発した。Smalltalk styleのMVCの方が自然だと思う。また、少々カスタマイズできるscaffoldみたいのも作ったが、これはちょっとやり過ぎたかもしれない(笑)
 
 ViewからModelを呼び出すようにしたと記憶しているが、これはそちらの方が自然だから。数年前、英語ブログa web programmerのblogでcomet frameworkを公開したが、その時はcometを実装するのに遣り過ぎたと思ったので、そのエッセンスだけを取り出した。すなわち、ViewからModelを呼び出すということである。(Fat Controller問題で議論が噛み合ないのはControllerがeventであるということと、Observer Patternを知らない人が多いからだと思う。iPhoneアプリエンジニアはどうなんだろう？)
 
