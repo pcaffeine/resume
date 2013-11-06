@@ -1,10 +1,17 @@
-金輝俊 (キム フィジュン) Hwi Jun Kim @pcaffeine euler.bonjour@gmail.com
+## resume (CV)
 
-skype: pcaffeine
+金輝俊 (キム フィジュン) Hwi Jun Kim 
 
-Date of Birth: 1977/5/6
+## Contacs
 
-Place of Place: Tokyo/Japan
+* twitter: @pcaffeine 
+* email: euler.bonjour@gmail.com
+* skype: euler.bonjour
+
+# Basic Info
+
+* Date of Birth: 1977/5/6
+* Place of Place: Tokyo/Japan
 
 Remark: This resume is written by Japanese because I suppose Japanese cannot use English.
 
