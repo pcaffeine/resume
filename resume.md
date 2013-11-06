@@ -12,7 +12,7 @@ Remark: This resume is written by Japanese because I suppose Japanese cannot use
 システム制御工学のresearch student (M.Phil) として基礎を築いたあと、IT業界に転身しました。IT業界に転身後、フロントエンドも含めた通常のPC/モバイル向けWebサービス開発及び、自然言語処理/機械学習関連開発と、それを応用した検索エンジン/レコメンデーションエンジン開発をしてきました。フェーズ的には要件定義から設計/実装まで全てこなせます。プロダクトマネージャーやマネージャーをやったこともあります。
 
 ## Keywords
-applied mathematics, management, strategy, meta programming, object oriented programming, database, web application framework development, map-reduce, data structure and algorithm, data analysis, natural language processing, machine learning, search engine, recommendation engine.
+applied mathematics, management, strategy, meta programming, object oriented programming, database, web application framework development, map-reduce, data structure and algorithm, data analysis, natural language processing, machine learning, search engine, recommendation engine, classical mechanics, applied classical mechanics, system control engineering.
 
 ## キャリアの変遷
 制御工学のresearch student(M.Phil)→Web系エンジニア→ブログ分析、検索エンジン、レコメンデーションエンジン→Web系エンジニア+データ分析+マネージメント
@@ -51,6 +51,10 @@ Web制作会社でのPC自社Webサービス開発、品質管理業務
 
 ## Coventry University (M.Phil/Ph.D課程)
 2002年10月-2004年11月. Master of Philosophy, Principal Investigator
+
+Aim: To reduce energy consumption of mechanical systems
+
+Objective: To make robust controller for smart material systems.
 
 Research Proposal: Control Problems Arising on Smart Strutural Systems
 
