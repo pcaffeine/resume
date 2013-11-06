@@ -1,4 +1,4 @@
-## resume (CV)
+# resume (CV)
 
 金輝俊 (キム フィジュン) Hwi Jun Kim 
 
@@ -8,7 +8,7 @@
 * email: euler.bonjour@gmail.com
 * skype: euler.bonjour
 
-# Basic Info
+## Basic Info
 
 * Date of Birth: 1977/5/6
 * Place of Place: Tokyo/Japan
