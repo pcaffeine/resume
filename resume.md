@@ -1,4 +1,6 @@
-Hwi Jun Kim @pcaffeine euler.bonjour@gmail.com
+金輝俊 (キム フィジュン) Hwi Jun Kim @pcaffeine euler.bonjour@gmail.com
+
+skype: pcaffeine
 
 Date of Birth: 1977/5/6
 
