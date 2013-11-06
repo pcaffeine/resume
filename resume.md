@@ -30,7 +30,7 @@ applied mathematics, management, strategy, meta programming, object oriented pro
 2012年9月から現在
 
 ## REALWORLD.co.,LTD(株式会社リアルワールド)
-エンジニア・マネージャー · 2012年1月〜2012年8月
+エンジニア・プロジェクトマネージャー · 2012年1月〜2012年8月
 
 Webサービス開発、運営。この会社ではマネージメント、企画指向で行いました。また、新卒教育も行いました。
 
