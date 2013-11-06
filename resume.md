@@ -62,23 +62,19 @@ Web制作会社でのPC自社Webサービス開発、品質管理業務
 ## Coventry University (M.Phil/Ph.D課程)
 2002年10月-2004年11月. Master of Philosophy, Principal Investigator
 
-Aim: To reduce energy consumption of mechanical systems
-
-Objective: To make robust controller for smart material systems.
-
-Research Proposal: Control Problems Arising on Smart Strutural Systems
-
-Thesis: Disturbance Estimation And Cancellation for Linear Uncertain Systems
-
 Control Theory and Applications Centre. School of Mathematical and Information Sciences.
+
+* Aim: To reduce energy consumption of mechanical systems
+* Objective: To make robust controller for smart material systems.
+* Research Proposal: Control Problems Arising on Smart Strutural Systems
+* Thesis: Disturbance Estimation And Cancellation for Linear Uncertain Systems
 
 At least, I have one international proceedings derived from the thesis above.
 
 返済義務なしの奨学金付き (EU Rate。Tuition fee 一年目約2500ポンド。二年目約250ポンド)
 
-https://github.com/pcaffeine/resume/blob/master/thesis-partial.pdf
-
-https://github.com/pcaffeine/resume/blob/master/mphil-diploma.pdf
+* 学位記 https://github.com/pcaffeine/resume/blob/master/thesis-partial.pdf
+* M.Phil論文の一部 https://github.com/pcaffeine/resume/blob/master/mphil-diploma.pdf
 
 本論文ではスマートマテリアルシステムをロバストに制御することを諦念に制御アルゴリズムとdisturbance observerの組の提案とそのロバスト性の証明をおこなった。本論文のスコープは理論的に、ある一定クラスのシステムのロバスト性を示すことである。ただし、実際の場合ロバストに制御するためにはいくかの問題点が残っている。実験はスコープ外である。
 
