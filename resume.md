@@ -37,7 +37,7 @@ applied mathematics, management, strategy, meta programming, object oriented pro
 
 に代表されるフレームワークを開発した。Smalltalk styleのMVCの方が自然だと思う。また、少々カスタマイズできるscaffoldみたいのも作ったが、これはちょっとやり過ぎたかもしれない(笑)
 
-ViewからModelを呼び出すようにしたと記憶しているが、これはそちらの方が自然だから。数年前、英語ブログa web programmerのblogでcomet frameworkを公開したが、その時はcometを実装するのに遣り過ぎたと思ったので、そのエッセンスだけを取り出した。すなわち、ViewからModelを呼び出すということである。(Fat Controller問題で議論が噛み合ないのはControllerがeventであるということと、Observer Patternを知らない人が多いからだと思う。iPhoneアプリエンジニアはどうなんだろう？)
+ViewからModelを呼び出すようにしたと記憶しているが、これはそちらの方が自然だから。数年前、英語ブログa web programmerのblogでcomet frameworkを公開したが、その時はcometを実装するのにやり過ぎたと思ったので、そのエッセンスだけを取り出した。すなわち、ViewからModelを呼び出すということである。(Fat Controller問題で議論が噛み合ないのはControllerがeventであるということと、Observer Patternを知らない人が多いからだと思う。iPhoneアプリエンジニアはどうなんだろう？)
 
 また、meta programmingを随所に使い、PHPでもその力を引き出せばRuby/Railsある程度並べるのでは？ということを示した。
 
