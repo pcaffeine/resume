@@ -87,6 +87,18 @@ Web制作会社でのPC自社Webサービス開発、品質管理業務
 
 Control Theory and Applications Centre. School of Mathematical and Information Sciences.
 
+そもそもなぜ、海外大学院でPh.Dを取ろうと思ったのか？結論から言えば日本では就職が無理か極めて難しいと判断したからである。当時、日本での在日韓国人差別は結構あって、もう日本に住んでいるのが嫌になった。というより、日本で生きていくのは無理だと思った。だめ押しに早稲田修士卒の伯父さんに某社からapplication formすら送られてこなかったと言われた。
+
+高校在学時にアメリカのアカデミックスクールでResearch Assistant (RA)をやれば授業料全額免除でさらに、生活費もRAで出るということであった。これだ、と思った。在日韓国人は韓国でも馬鹿にされがちということなので、第三国で工学系Ph.Dを取れば生きていけると判断した。
+
+イギリスは後に第二志望グループにいれたが、その理由は単純で奨学金の額が少ないからである。
+
+なぜ、韓国の大学なり、大学院に行かないのか？韓国では在日韓国人は見下されているらしいと聞いたから行く気はなかった。その気があれば韓国語くらいは身につける。
+
+結果、アメリカではAustinがエッセーを書き直せば来年入れる可能性があると言われた。UMMISTのMscとCoventryのM.Phil/Ph.Dがオファーされた。奨学金が出るという事でCoventryを選んだ。
+
+イギリスでも人種差別はあって、馬鹿バカしくなって、結局日本に戻った。IT業界に行ったら、そこに自由はあった。実力次第でもぎ取れる自由が。また、学生時代にあった在日韓国人差別もなくなっていた。
+
 * Aim: To reduce energy consumption of mechanical systems
 * Objective: To make robust controller for smart material systems.
 * Research Proposal: Control Problems Arising on Smart Strutural Systems
