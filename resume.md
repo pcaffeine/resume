@@ -99,6 +99,8 @@ Control Theory and Applications Centre. School of Mathematical and Information S
 
 イギリスでも人種差別はあって、馬鹿バカしくなって、結局日本に戻った。IT業界に行ったら、そこに自由はあった。実力次第でもぎ取れる自由が。また、学生時代にあった在日韓国人差別もなくなっていた。
 
+### M.Phil論文について
+
 * Aim: To reduce energy consumption of mechanical systems
 * Objective: To make robust controller for smart material systems.
 * Research Proposal: Control Problems Arising on Smart Strutural Systems
