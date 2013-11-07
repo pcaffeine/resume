@@ -93,7 +93,7 @@ Control Theory and Applications Centre. School of Mathematical and Information S
 
 イギリスは後に第二志望グループにいれたが、その理由は単純で奨学金の額が少ないからである。
 
-結果、アメリカではAustinがエッセーを書き直せば来年入れる可能性があると言われた。UMISTのMscとCoventryのM.Phil/Ph.Dがオファーされた。奨学金が出るという事でCoventryを選んだ。
+結果、アメリカではAustinがエッセーを書き直せば来年入れる可能性があると言われた。UMISTのMScとCoventryのM.Phil/Ph.Dがオファーされた。奨学金が出るという事でCoventryを選んだ。
 
 事実上の亡命だった。
 
