@@ -87,6 +87,11 @@ Web制作会社でのPC自社Webサービス開発、品質管理業務
 
 Control Theory and Applications Centre. School of Mathematical and Information Sciences.
 
+返済義務なしの奨学金付き (EU Rate。Tuition fee 一年目約2500ポンド。二年目約250ポンド)
+
+* 学位記 https://github.com/pcaffeine/resume/blob/master/thesis-partial.pdf
+* M.Phil論文の一部 https://github.com/pcaffeine/resume/blob/master/mphil-diploma.pdf
+
 そもそもなぜ、海外大学院でPh.Dを取ろうと思ったのか？結論から言えば日本では就職が無理か極めて難しいと判断したからである。就職はできても生きていくのは無理だと思った。当時、日本での在日韓国人差別は結構あって、もう日本に住んでいるのが嫌になった。というより、日本で生きていくのは無理だと思った。だめ押しに早稲田修士卒の伯父さんに某社からapplication formすら送られてこなかったと言われた。
 
 高校在学時にどこからか仕入れた情報ではアメリカのアカデミックスクールでResearch Assistant (RA)をやれば授業料全額免除でさらに、生活費もRAで出るということであった。これだ、と思った。在日韓国人は韓国でも馬鹿にされがちということなので、第三国で工学系Ph.Dを取れば生きていけると判断した。
@@ -107,11 +112,6 @@ Control Theory and Applications Centre. School of Mathematical and Information S
 * Thesis: Disturbance Estimation And Cancellation for Linear Uncertain Systems
 
 At least, I have one international proceedings derived from the thesis above.
-
-返済義務なしの奨学金付き (EU Rate。Tuition fee 一年目約2500ポンド。二年目約250ポンド)
-
-* 学位記 https://github.com/pcaffeine/resume/blob/master/thesis-partial.pdf
-* M.Phil論文の一部 https://github.com/pcaffeine/resume/blob/master/mphil-diploma.pdf
 
 本論文ではスマートマテリアルシステムをロバストに制御することを諦念に制御アルゴリズムとdisturbance observerの組の提案とそのロバスト性の証明をおこなった。本論文のスコープは理論的に、ある一定クラスのシステムのロバスト性を示すことである。ただし、実際の場合ロバストに制御するためにはいくかの問題点が残っている。実験はスコープ外である。
 
