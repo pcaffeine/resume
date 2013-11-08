@@ -205,3 +205,9 @@ nominal systemの非線形性を制御入力によって打ち消すことは考
 英語 TOEFL 233/300 (2002年)
 
 日本語 Native Language
+
+# 開発環境、開発支援環境など
+- サーバーサイドサイドOS: Linux
+- 言語: PHP、Ruby、Java、Javascript、C++、C
+- DB: MySQL、Memcached、TokyoCabinet/Tyrant
+- その他：HTML、Apache、nginx、RabbitMQ、CodeIgniter、Smarty、jQuery、Hadoop(MapReduce)、Thrift(RPCフレームワーク)、git、redmine
