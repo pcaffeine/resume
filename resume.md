@@ -7,7 +7,7 @@
 * twitter: @pcaffeine 
 * email: euler.bonjour@gmail.com
 * skype: euler.bonjour
-
+>
 ## Basic Info
 
 * Date of Birth: 1977/5/6
@@ -206,7 +206,7 @@ nominal systemの非線形性を制御入力によって打ち消すことは考
 
 日本語 Native Language
 
-# 開発環境、開発支援環境など
+## 開発環境、開発支援環境など
 - サーバーサイドサイドOS: Linux
 - 言語: PHP、Ruby、Java、Javascript、C++、C
 - DB: MySQL、Memcached、TokyoCabinet/Tyrant
