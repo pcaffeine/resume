@@ -7,7 +7,7 @@
 * twitter: @pcaffeine 
 * email: euler.bonjour@gmail.com
 * skype: euler.bonjour
->
+
 ## Basic Info
 
 * Date of Birth: 1977/5/6
@@ -25,7 +25,7 @@ applied mathematics, web application framework development, project management, 
 
 ## キャリアの変遷
 制御工学のresearch student(M.Phil)→Web系エンジニア→ブログ分析、検索エンジン、レコメンデーションエンジン→Web系エンジニア+データ分析+プロジェクトマネージメント
->
+
 ## フリーランスエンジニア
 2012年9月から現在
 
