@@ -90,8 +90,8 @@ Control Theory and Applications Centre. School of Mathematical and Information S
 
 返済義務なしの奨学金付き (EU Rate。Tuition fee 一年目約2500ポンド。二年目約250ポンド)
 
-* 学位記 https://github.com/pcaffeine/resume/blob/master/thesis-partial.pdf
-* M.Phil論文の一部 https://github.com/pcaffeine/resume/blob/master/mphil-diploma.pdf
+* 学位記 https://github.com/pcaffeine/resume/blob/master/mphil-diploma.pdf
+* M.Phil論文の一部 https://github.com/pcaffeine/resume/blob/master/thesis-partial.pdf
 
 そもそもなぜ、海外大学院でPh.Dを取ろうと思ったのか？結論から言えば日本では就職が無理か極めて難しいと判断したからである。就職はできても生きていくのは無理だと思った。当時、日本での在日韓国人差別は結構あって、もう日本に住んでいるのが嫌になった。というより、日本で生きていくのは無理だと思った。だめ押しに早稲田修士卒の伯父さんに某社からapplication formすら送られてこなかったと言われた。
 
