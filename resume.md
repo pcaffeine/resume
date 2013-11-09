@@ -30,7 +30,7 @@ applied mathematics, web application framework development, project management, 
 ## フリーランスエンジニア
 2012年9月から現在
 
-アルフレッドコア時代にWeb Application Frameworkを開発 (アルフレッドコアはプロジェクトマージャー採用) 。Rails型とSmalltalk型フレームワークのハイブリッドである。MVCの部分に加え、
+アルフレッドコア時代にWeb Application Frameworkを開発 (アルフレッドコアはプロジェクトマネージャー採用) 。Rails型とSmalltalk型フレームワークのハイブリッドである。MVCの部分に加え、
 
 * ORMapper
 * AOP
