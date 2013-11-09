@@ -11,7 +11,7 @@
 ## Basic Info
 
 * Date of Birth: 1977/5/6
-* Place of Place: Tokyo/Japan
+* Place of Birth: Tokyo, Japan
 * Nationality: 韓国籍、日本国特別永住権
 
 Remark: This resume is written by Japanese because I suppose Japanese cannot use English.
