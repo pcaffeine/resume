@@ -34,7 +34,7 @@ applied mathematics, web application framework development, project management, 
 
 * ORMapper
 * AOP
-* Composite View Patternも含めたSmallTalk型MVC
+* Composite View Pattern
 
 に代表されるフレームワークを開発した。Smalltalk styleのMVCの方が自然だと思う。また、少々カスタマイズできるscaffoldみたいのも作ったが、これはちょっとやり過ぎたかもしれない(笑)
 
