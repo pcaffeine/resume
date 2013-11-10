@@ -106,7 +106,7 @@ Web制作会社でのPC自社Webサービス開発、品質管理業務
 
 Control Theory and Applications Centre. School of Mathematical and Information Sciences.
 
-返済義務なしの奨学金付き (Tuition fee 一年目 EU Rate 約2500ポンド。二年目 writing term 約250ポンド)
+返済義務なしの奨学金付き (Tuition fee: 一年目、EU Rate 約2500ポンド。二年目、writing term 約250ポンド)
 
 * 学位記 https://github.com/pcaffeine/resume/blob/master/mphil-diploma.pdf
 * M.Phil論文の一部 https://github.com/pcaffeine/resume/blob/master/thesis-partial.pdf
