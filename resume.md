@@ -19,7 +19,7 @@ Remark: This resume is written by Japanese because I suppose Japanese cannot use
 注：このresumeを日本語で書いたのは日本人が理解できるようにするため。
 
 ## Summary
-システム制御工学のresearch student (M.Phil) として基礎を築いたあと、IT業界に転身しました。IT業界に転身後、フロントエンドも含めた通常のPC/モバイル向けWebサービス開発及び、自然言語処理/機械学習関連開発と、それを応用した検索エンジン/レコメンデーションエンジン開発をしてきました。フェーズ的には要件定義から設計/実装まで全てこなせます。プロダクトマネージャーやプロジェクトマネージャーをやったこともあります。
+システム制御工学のresearch student (M.Phil) として基礎を築いたあと、IT業界に転身しました。IT業界に転身後、フロントエンドも含めた通常のPC/モバイル向けWebサービス開発及び、自然言語処理/機械学習関連開発と、それを応用した検索エンジン/レコメンデーションエンジン開発をしてきました。フェーズ的には要件定義から設計/実装まで全てこなせます。プロダクトマネージャーやプロジェクトマネージャーをやったこともあります。また、Web Applicationフレームワークも作れます。
 
 ## Keywords
 applied mathematics, web application framework development, project management, database, strategy, meta programming, object oriented programming, map-reduce, data structure and algorithm, data analysis, natural language processing, machine learning, search engine, recommendation engine, classical mechanics, applied classical mechanics, system control engineering.
