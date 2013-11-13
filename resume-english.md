@@ -85,9 +85,10 @@ Part-time job
 1993/4 - 1996/3
 
 ## Hosei University Second Junior High School (Private School)
-1990/4 - 1993年3
+1990/4 - 1993/3
 
 ## Dendo Primary School (Public school)
+1984/4 - 1990/3
 
 ## Design Projects
 
