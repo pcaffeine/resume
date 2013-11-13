@@ -72,7 +72,7 @@ B.Eng, 2002, University of Tsukuba, First Class (if it were at England)
 
 Major: System Control Engineering
 
-(Unofficial Minor): Mechanical Engineering
+(Unofficial) Minor: Mechanical Engineering
 
 Scholarship: No duty to pay all or half of tuition fee (Shinshu University)
 
