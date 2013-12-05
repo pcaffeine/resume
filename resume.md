@@ -43,7 +43,7 @@ ViewからModelを呼び出すようにしたと記憶しているが、これ�
 また、meta programmingを随所に使い、PHPでもその力を引き出せばRuby/Railsある程度並べるのでは？ということを示した。
 
 ## REALWORLD.co.,LTD(株式会社リアルワールド)
-エンジニア・プロジェクトマネージャー · 2012年1月〜2012年8月
+エンジニア・グループリーダー · 2012年1月〜2012年8月
 
 Webサービス開発、運営。この会社ではマネージメント、企画指向で行いました。また、新卒教育も行いました。
 
@@ -100,7 +100,7 @@ twitter botのpush型レコメンデーションエンジンではマイノリ�
 Web制作会社でのPC自社Webサービス開発、品質管理業務
 
 ## Coventry University (M.Phil/Ph.D課程)
-2002年10月-2004年11月. Master of Philosophy, Principal Investigator
+2002年10月-2004年11月. Master of Philosophy
 
 Control Theory and Applications Centre. School of Mathematical and Information Sciences.
 
